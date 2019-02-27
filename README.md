@@ -3,7 +3,7 @@
 
 
 
-basic text editing tool.
+Basic text editing tool.
 
 Writen in C# as university project. Covers basic text operations.
 You can execute it in build release version: 
